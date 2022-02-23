@@ -1,0 +1,5 @@
+export github_@joeyzaz
+export joeyzaz@github.com mkdir -p ~/git
+cd ~/git
+git clone git@github.com:$github_@joeyzaz/metasploit-framework
+cd ~/git/metasploit-framework
